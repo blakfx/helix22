@@ -7,7 +7,7 @@ This repository holds description and general information about Helix22, its adv
 Helix22 exposes client-side cryptographic API in various languages.
 
 * Helix22 API is C (using C99 standard) is located at : https://github.com/blakfx/helix22-api-c
-    * It is forward compatible with all C/C++ programs using C11, C++03, C++11, C++14, C++17 language standards
+    * It is forward compatible with all C/C++ programs using C11, C++98, C++03, C++11, C++14, C++17 language standards
 * Helix22 API in Java is located at: https://github.com/blakfx/helix22-api-java
     * Helix22 Java API uses version 11 of Java runtime environment, and is forward compatible with all newer releases of Java standard
 
