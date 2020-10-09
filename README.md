@@ -1,5 +1,6 @@
 # Helix22
-Helix22 is a novel cryptographic system, including cryptographic API, communication protocol and secure key-managment components.
+Helix22 is a novel cryptographic system, including cryptographic API, communication protocol and secure key-managment components. 
+It has been developed by BlakFx (https://www.blakfx.com/).
 
 This repository holds description and general information about Helix22, its advantages over existing cryptgraphic systems and protocols.
 
